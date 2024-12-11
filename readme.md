@@ -67,7 +67,7 @@ Siga os passos abaixo para instalar e rodar o projeto em seu ambiente local:
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/Benevanio/answer-question-game.git
+git https://github.com/Benevanio/answer-question
 ```
 
 ### 2. Instalar as dependências
