@@ -1,6 +1,3 @@
-Claro! Abaixo está um exemplo de **README.md** para o seu projeto. Este README pode ser utilizado para descrever o funcionamento do seu aplicativo, como configurá-lo e usá-lo.
-
----
 
 # Jogo de Perguntas e Respostas
 
